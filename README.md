@@ -1,3 +1,6 @@
+relx源代码带中文注释，用于学习相关的源代码以及打包工具的熟悉
+
+
 [![Build Status](https://travis-ci.org/erlware/relx.png?branch=master)](https://travis-ci.org/erlware/relx)
 
 Relx
